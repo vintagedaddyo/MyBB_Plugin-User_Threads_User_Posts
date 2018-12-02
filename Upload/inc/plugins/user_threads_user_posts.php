@@ -19,7 +19,7 @@ if(!defined("IN_MYBB"))
 
 // Plugin add hooks
 
-	  $plugins->add_hook('global_start', 'user_threads_user_posts_start');
+   $plugins->add_hook('global_start', 'user_threads_user_posts_start');
 	
 // Plugin information
 
