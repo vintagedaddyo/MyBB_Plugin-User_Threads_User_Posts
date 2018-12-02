@@ -2,6 +2,8 @@
 
 User Threads User Posts 1.0 Plugin by: Vintagedaddyo
 
+Adds view User Threads and view User Posts to the welcomeblock_member_search.
+
 * Plugin Localization Support:
 
 - english
